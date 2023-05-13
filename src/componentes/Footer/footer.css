@@ -10,11 +10,16 @@
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    flex-wrap: wrap;
     }
 .redes img{ 
     padding: 0px 15px;
 }
 
 .logo{
-    padding-left: 180px;
+    padding-left: 180px;    
+}
+
+strong{
+    padding: 25px 0;
 }
